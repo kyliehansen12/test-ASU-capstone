@@ -1,13 +1,6 @@
 title: ASU Capstone Practice
 author: K Hansen
-  name: K Hansen
-  email: <kyliehansen12@gmail.com>
 description:
   ASU Capstone Practice...
-baseurl: ""
-url: <me>.github.io
-
-minima:
-  skin: dark  # having no effect
 
 theme: minima
